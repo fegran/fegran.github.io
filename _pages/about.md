@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 Webpage in remodelation :D
+
 Old page is now stored here: [Old Site](https://fegran.github.io/old_page/index.html)
+
 If you need some critical information, write to fegran@uc.cl !
 
 
