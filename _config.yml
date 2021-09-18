@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Felipe Gran"
+title                    : "Home webpage"
 title_separator          : "-"
-name                     : &name "Home page"
+name                     : &name "Felipe Gran"
 description              : &description "Service mode PhD student in astronomy"
 url                      : https://fegran.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
