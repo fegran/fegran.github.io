@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Felipe Gran"
 title_separator          : "-"
-name                     : &name "Felipe Gran"
+name                     : &name "Home page"
 description              : &description "Service mode PhD student in astronomy"
 url                      : https://fegran.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -84,7 +84,7 @@ author:
   avatar           : "FGran_Gran1_zoom_in_IA.png"
   bio              : "Service mode PhD student in astronomy"
   location         : "Santiago, Chile"
-  employer         : "[PUC](https://astro.uc.cl/)/[MAS](https://www.astrofisicamas.cl/en/)/[ESO Chile](https://www.eso.org/public/)"
+  employer         : "PUC/MAS/ESO Chile"
   pubmed           : 
   googlescholar    : 
   email            : "fegran@uc.cl"
