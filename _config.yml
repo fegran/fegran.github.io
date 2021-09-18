@@ -83,8 +83,8 @@ author:
   name             : "Felipe Gran M."
   avatar           : "FGran_Gran1_zoom_in_IA.png"
   bio              : "Service mode PhD student in astronomy"
-  location         : "Santiago"
-  employer         : 
+  location         : "Santiago, Chile"
+  employer         : PUC/MAS/ESO Chile
   pubmed           : 
   googlescholar    : 
   email            : "fegran@uc.cl"
@@ -175,9 +175,9 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: false
+  #   permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -209,15 +209,15 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comments: true
+  # # _teaching
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: false
+  #     comments: true
   # _publications
   - scope:
       path: ""
