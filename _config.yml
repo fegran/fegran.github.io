@@ -84,7 +84,7 @@ author:
   avatar           : "FGran_Gran1_zoom_in_IA.png"
   bio              : "Service mode PhD student in astronomy"
   location         : "Santiago, Chile"
-  employer         : PUC/MAS/ESO Chile
+  employer         : [PUC](https://astro.uc.cl/)/[MAS](https://www.astrofisicamas.cl/en/)/[ESO Chile](https://www.eso.org/public/)
   pubmed           : 
   googlescholar    : 
   email            : "fegran@uc.cl"
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Santiago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
