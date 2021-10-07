@@ -8,13 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Site under maintenance :)
+I am a PhD student at the [Institute of Astrophysics](https://astro.uc.cl/), [Pontificia Universidad Católica de Chile](https://www.uc.cl/).
+I am also a [Millenium Institute of Astrophysics](https://www.astrofisicamas.cl/en/) (MAS) and [ESO Chile](https://www.eso.org) Studentship alumni.
 
-Please go to the old side here: [link](https://fegran.github.io/old_page/index.html)
+I have beeen working on the old stellar population (globular clusters, RR Lyrae variable stars) towards the Galactic bulge.
+
+You can find my [CV](/files/CV_FGran.pdf) and my publication list in [ADS](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=NOT&filter_author_facet_hier_fq_author=(*%3A*%20NOT%20author_facet_hier%3A%221%2FGran%2C%20F%2FGran%2C%20Fredrik%22)&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FGran%2C%20F%2FGran%2C%20Frode%20W%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=((*%3A*%20NOT%20author_facet_hier%3A%221%2FGran%2C%20F%2FGran%2C%20Fredrik%22)%20NOT%20author_facet_hier%3A%221%2FGran%2C%20F%2FGran%2C%20Frode%20W%22)&q=author%3A%22Gran%2C%20F.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
+
+
+The site is under heavy maintenance :)
+
+Please, go to the old (and complete) side here: [link](https://fegran.github.io/old_page/index.html)
 
 Write to fegran@uc.cl is necessary. Have a nice day!
 
-Last update: 28.09.2021
+Last update: 06.10.2021
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
