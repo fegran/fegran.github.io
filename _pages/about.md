@@ -11,7 +11,7 @@ redirect_from:
 I am a PhD student at the [Institute of Astrophysics](https://astro.uc.cl/), [Pontificia Universidad Católica de Chile](https://www.uc.cl/).  
 I am also a [Millenium Institute of Astrophysics](https://www.astrofisicamas.cl/en/) (MAS) graduate student and [ESO Chile](https://www.eso.org) Studentship alumni.
 
-For my thesis, I have beeen working on the old stellar population (globular clusters, RR Lyrae variable stars) towards the Galactic bulge.  
+For my thesis, I have beeen working on the old stellar population (globular clusters, RR Lyrae variable stars) towards the Galactic bulge.
 From characterising globular clusters with APOGEE spectra ([paper](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.3494G/abstract)) to discover new ones using Gaia and VVV ([paper1](https://ui.adsabs.harvard.edu/abs/2019A%26A...628A..45G/abstract) and [paper2](https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.2477G/abstract)).  
 
 **You can find my [CV](/files/CV_FGran.pdf) (Sept 2021) and publication list in [ADS](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=NOT&filter_author_facet_hier_fq_author=(*%3A*%20NOT%20author_facet_hier%3A%221%2FGran%2C%20F%2FGran%2C%20Fredrik%22)&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FGran%2C%20F%2FGran%2C%20Frode%20W%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=((*%3A*%20NOT%20author_facet_hier%3A%221%2FGran%2C%20F%2FGran%2C%20Fredrik%22)%20NOT%20author_facet_hier%3A%221%2FGran%2C%20F%2FGran%2C%20Frode%20W%22)&q=author%3A%22Gran%2C%20F.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).**
