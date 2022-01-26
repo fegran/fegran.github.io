@@ -84,7 +84,7 @@ author:
   avatar           : "FGran_Gran1_zoom_in_IA.png"
   bio              : "Service mode PhD student in astronomy"
   location         : "Santiago, Chile"
-  employer         : "PUC/MAS/ESO Chile"
+  employer         : "PUC/MAS"
   pubmed           : 
   googlescholar    : 
   email            : "fegran@uc.cl"
@@ -187,9 +187,9 @@ collections:
   ideas:
     output: true
     permalink: /:collection/:path/
-  cv:
-    output: true
-    permalink: /:collection/:path/
+#  cv:
+#    output: true
+#    permalink: /:collection/:path/
 
 
 
