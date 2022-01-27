@@ -10,9 +10,9 @@ author_profile: true
 Sometimes I like to merge astronomy/data analysis and other fields:
 
 - **30 day map challenge**: monthly challenge of plotting maps with a pre-defined set of rules.\\
-I made a version using Chilean astronomical data. Here is the starting tweet: [link]()
+I made a version using Chilean astronomical data. Here is the twitter thread: [link](https://twitter.com/fegranm/status/1323257045932453888)
 
-- **PUC astrop-ph**: analysis of the emails that I received in my inbox regarding the daily astro-ph at PUC during my Master and part of the PhD studies (~6 years). Here are the slides and conclusions that I presented: [link]()
+- **PUC astrop-ph**: analysis of the emails that I received in my inbox regarding the daily astro-ph at PUC during my Master and part of the PhD studies (~6 years). Here are the slides and conclusions that I presented: [link](/files/astro-ph.pdf)
 
 <!-- 
 {% include base_path %}
