@@ -7,6 +7,13 @@ author_profile: true
   - /wordpress/blog-posts/ -->
 ---
 
+Sometimes I like to merge astronomy/data analysis and other fields:
+
+- **30 day map challenge**: monthly challenge of plotting maps with a pre-defined set of rules.\\
+I made a version using Chilean astronomical data. Here is the starting tweet: [link]()
+
+- **PUC astrop-ph**: analysis of the emails that I received in my inbox regarding the daily astro-ph at PUC during my Master and part of the PhD studies (~6 years). Here are the slides and conclusions that I presented: [link]()
+
 <!-- 
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
