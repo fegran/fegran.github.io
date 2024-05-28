@@ -8,28 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the [Institute of Astrophysics](https://astro.uc.cl/), [Pontificia Universidad Católica de Chile](https://www.uc.cl/), [Millenium Institute of Astrophysics](https://www.astrofisicamas.cl/en/) (MAS) graduate student and [ESO Chile](https://www.eso.org) Studentship alumni.
+I am a postdoc in the [Lagrange Laboratory](https://www.oca.eu/en/welcome-lagrange) at the [Observatoire de la Côte d’Azur](https://www.oca.eu/fr/) (France). Currently working on chemo-dynamical properties of metal-poor stars within the [Pristine](https://sites.google.com/view/pristinesurvey) survey, machine learning methods in large spectroscopic catalogues with applications to the [WEAVE](https://ingconfluence.ing.iac.es/confluence/display/WEAV/The+WEAVE+Project) [Galactic Archaeology](https://ingconfluence.ing.iac.es/confluence/display/WEAV/Galactic+Archaeology) survey, and characterising the low-luminosity population of globular clusters in the inner Milky Way.
 
-I have beeen working on the old stellar populations towards the Galactic bulge (globular clusters, RR Lyrae variable stars) mostly using large catalogues like Gaia, VVV or APOGEE.
-My thesis is composed of two main topics: characterising globular clusters with APOGEE spectra ([paper](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.3494G/abstract)) and discover new clusters using Gaia and VVV proper motions ([paper #1](https://ui.adsabs.harvard.edu/abs/2019A%26A...628A..45G/abstract) and [paper #2](https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.2477G/abstract)).  
+Additionaly, in during my PhD, I have beeen working on the old stellar populations towards the Galactic bulge (globular clusters, RR Lyrae variable stars) mostly using large catalogues like Gaia, VVV or APOGEE.
 
-You can find my [CV](/files/CV_FGran.pdf) (**Feb 2022**) and publication list in [ADS](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=NOT&filter_author_facet_hier_fq_author=(*%3A*%20NOT%20author_facet_hier%3A%221%2FGran%2C%20F%2FGran%2C%20Fredrik%22)&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FGran%2C%20F%2FGran%2C%20Frode%20W%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=((*%3A*%20NOT%20author_facet_hier%3A%221%2FGran%2C%20F%2FGran%2C%20Fredrik%22)%20NOT%20author_facet_hier%3A%221%2FGran%2C%20F%2FGran%2C%20Frode%20W%22)&q=author%3A%22Gran%2C%20F.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
-
+You can find here my [CV](/files/CV_FGran.pdf) (**Jun 2024**) and publication list in [ADS](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=NOT&filter_author_facet_hier_fq_author=(*%3A*%20NOT%20author_facet_hier%3A%221%2FGran%2C%20F%2FGran%2C%20Fredrik%22)&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FGran%2C%20F%2FGran%2C%20Frode%20W%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=((*%3A*%20NOT%20author_facet_hier%3A%221%2FGran%2C%20F%2FGran%2C%20Fredrik%22)%20NOT%20author_facet_hier%3A%221%2FGran%2C%20F%2FGran%2C%20Frode%20W%22)&q=author%3A%22Gran%2C%20F.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
 
 
-
-
-
-
-
-------- This site is under heavy maintenance :) -------
+<!-- ------- This site is under heavy maintenance :) -------
 
 Please, go to the legacy site if you want: [link](https://fegran.github.io/old_page/index.html)
 
 Write to fegran@uc.cl if necessary and have a nice day!
 
-Last update: 27.01.2022 
+Last update: 27.01.2022  -->
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home webpage"
 title_separator          : "-"
 name                     : &name "Felipe Gran"
-description              : &description "Service mode PhD student in astronomy"
+description              : &description "Service mode postdoc in astronomy"
 url                      : https://fegran.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fegran/fegran.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Felipe Gran M."
   avatar           : "FGran_Gran1_zoom_in_IA.png"
-  bio              : "Service mode PhD student in astronomy"
-  location         : "Santiago, Chile"
-  employer         : "PUC/MAS"
+  bio              : "Service mode postdoc in astronomy"
+  location         : "Nice, France"
+  employer         : "OCA"
   pubmed           : 
   googlescholar    : 
-  email            : "fegran@uc.cl"
+  email            : "fgran@oca.eu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        : "fegranm"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "felipe-gran-308584204"
+  # linkedin         : "felipe-gran-308584204"
   orcid            : "http://orcid.org/0000-0002-9252-6899"
   pinterest        :
   soundcloud       :
