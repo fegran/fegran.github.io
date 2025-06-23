@@ -12,7 +12,7 @@ I am a postdoc in the [Lagrange Laboratory](https://www.oca.eu/en/welcome-lagra
 
 Additionaly, in during my PhD, I have beeen working on the old stellar populations towards the Galactic bulge (globular clusters, RR Lyrae variable stars) mostly using large catalogues like Gaia, VVV or APOGEE.
 
-You can find here my [CV](/files/CV_Fgran.pdf) (**Jun 2024**) and publication list in [ADS](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=NOT&filter_author_facet_hier_fq_author=(*%3A*%20NOT%20author_facet_hier%3A%221%2FGran%2C%20F%2FGran%2C%20Fredrik%22)&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FGran%2C%20F%2FGran%2C%20Frode%20W%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=((*%3A*%20NOT%20author_facet_hier%3A%221%2FGran%2C%20F%2FGran%2C%20Fredrik%22)%20NOT%20author_facet_hier%3A%221%2FGran%2C%20F%2FGran%2C%20Frode%20W%22)&q=author%3A%22Gran%2C%20F.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
+You can find here my [CV](/files/CV_Fgran.pdf) (**Jun 2025**) and publication list in [ADS](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=NOT&filter_author_facet_hier_fq_author=(*%3A*%20NOT%20author_facet_hier%3A%221%2FGran%2C%20F%2FGran%2C%20Fredrik%22)&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FGran%2C%20F%2FGran%2C%20Frode%20W%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=((*%3A*%20NOT%20author_facet_hier%3A%221%2FGran%2C%20F%2FGran%2C%20Fredrik%22)%20NOT%20author_facet_hier%3A%221%2FGran%2C%20F%2FGran%2C%20Frode%20W%22)&q=author%3A%22Gran%2C%20F.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
 
 
