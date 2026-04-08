@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+<!-- 
 Here you can find a brief summary of the publications:
 
 1. Hidden in the haystack: low-luminosity globular clusters towards the Galactic bulge
@@ -16,7 +16,7 @@ Here you can find a brief summary of the publications:
 3. Gaia and VVV view of the latest discoveries
 
 
-4. Mapping the outer bulge with VVV RR Lyrae stars
+4. Mapping the outer bulge with VVV RR Lyrae stars -->
 
 
 <!-- {% if author.googlescholar %}
