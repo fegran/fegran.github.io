@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I work as a Gemini-ANID fellow at the Pontificia Universidad Católica de Chile, [Instituto de Astrofísica](https://astro.uc.cl/), with duties at the [Gemini South Observatory](https://www.gemini.edu/). Currently working on chemo-dynamical properties of metal-poor stars within the [Pristine](https://sites.google.com/view/pristinesurvey) collaboration, machine learning methods in large spectroscopic catalogues with applications to the [WEAVE](https://ingconfluence.ing.iac.es/confluence/display/WEAV/The+WEAVE+Project) [Galactic Archaeology](https://ingconfluence.ing.iac.es/confluence/display/WEAV/Galactic+Archaeology) survey, and characterising the low-luminosity globular clusters in the Milky Way.
+Gemini-ANID fellow at the Pontificia Universidad Católica de Chile, [Instituto de Astrofísica](https://astro.uc.cl/), with duties at the [Gemini South Observatory](https://www.gemini.edu/). Currently working on chemo-dynamical properties of metal-poor stars within the [Pristine](https://sites.google.com/view/pristinesurvey) collaboration, machine learning methods in large spectroscopic catalogues, [WEAVE](https://ingconfluence.ing.iac.es/confluence/display/WEAV/The+WEAVE+Project) [Galactic Archaeology](https://ingconfluence.ing.iac.es/confluence/display/WEAV/Galactic+Archaeology) survey, [4MOST S13](https://www.4most.eu/qmostauth/survey_detail/13/) - Stellar Clusters, [ELT MOSAIC](https://www.oca.eu/fr/mosaic-oca-team) and characterising the low-luminosity globular clusters in the Milky Way.
 
 You can find here my [CV](/files/CV_FGran.pdf) (**May 2026**) and publication list in [ADS](https://ui.adsabs.harvard.edu/user/libraries/sxdI6LnxS7mbdg2sye8mNQ).
 
