@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc in the [Lagrange Laboratory](https://www.oca.eu/en/welcome-lagrange) at the [Observatoire de la Côte d’Azur](https://www.oca.eu/fr/) (France). Currently working on chemo-dynamical properties of metal-poor stars within the [Pristine](https://sites.google.com/view/pristinesurvey) survey, machine learning methods in large spectroscopic catalogues with applications to the [WEAVE](https://ingconfluence.ing.iac.es/confluence/display/WEAV/The+WEAVE+Project) [Galactic Archaeology](https://ingconfluence.ing.iac.es/confluence/display/WEAV/Galactic+Archaeology) survey, and characterising the low-luminosity population of globular clusters in the inner Milky Way.
+I work as a Gemini-ANID fellow in the Pontificia Universidad Católica de Chile, [Instituto de Astrofísica](https://astro.uc.cl/) with duties at the [Gemini South Observatory](https://www.gemini.edu/) (Chile). Currently working on chemo-dynamical properties of metal-poor stars within the [Pristine](https://sites.google.com/view/pristinesurvey) survey, machine learning methods in large spectroscopic catalogues with applications to the [WEAVE](https://ingconfluence.ing.iac.es/confluence/display/WEAV/The+WEAVE+Project) [Galactic Archaeology](https://ingconfluence.ing.iac.es/confluence/display/WEAV/Galactic+Archaeology) survey, and characterising the low-luminosity globular clusters in the Milky Way.
 
-Additionaly, in during my PhD, I have beeen working on the old stellar populations towards the Galactic bulge (globular clusters, RR Lyrae variable stars) mostly using large catalogues like Gaia, VVV or APOGEE.
-
-You can find here my [CV](/files/CV_FGran.pdf) (**Sept 2025**) and publication list in [ADS](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=NOT&filter_author_facet_hier_fq_author=(*%3A*%20NOT%20author_facet_hier%3A%221%2FGran%2C%20F%2FGran%2C%20Fredrik%22)&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FGran%2C%20F%2FGran%2C%20Frode%20W%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=((*%3A*%20NOT%20author_facet_hier%3A%221%2FGran%2C%20F%2FGran%2C%20Fredrik%22)%20NOT%20author_facet_hier%3A%221%2FGran%2C%20F%2FGran%2C%20Frode%20W%22)&q=author%3A%22Gran%2C%20F.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
+You can find here my [CV](/files/CV_FGran.pdf) (**May 2026**) and publication list in [ADS](https://ui.adsabs.harvard.edu/user/libraries/sxdI6LnxS7mbdg2sye8mNQ).
 
 
 
